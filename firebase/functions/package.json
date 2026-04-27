@@ -1,1 +1,14 @@
-
+{
+  "name": "socialmonet-functions",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^11.11.0",
+    "firebase-functions": "^4.5.0",
+    "axios": "^1.6.2",
+    "crypto-js": "^4.2.0"
+  }
+}
